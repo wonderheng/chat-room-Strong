@@ -1,4 +1,4 @@
-# 基于WebSocket的聊天室
+# 基于spring Boot + spring WebSocket的在线聊天室
 
 ### 1. 目的
 
