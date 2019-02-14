@@ -3,4 +3,4 @@
 ### Example user template
 .idea/
 target/
-.iml
+*.iml
